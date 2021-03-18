@@ -15,4 +15,5 @@ int main(void)
 {
   printf("i get %d\n", getNumb(30));
   sayHi();
+  return 0;
 }
