@@ -7,6 +7,9 @@
     "*.cjson": "jsonc",
     "*.wxss": "css",
     "*.wxs": "javascript",
-    "stdio.h": "c"
+    "stdio.h": "c",
+    "atomic": "cpp",
+    "cstdint": "cpp",
+    "stdint.h": "c"
   }
 }
