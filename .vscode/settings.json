@@ -11,6 +11,7 @@
     "atomic": "cpp",
     "cstdint": "cpp",
     "stdint.h": "c",
-    "string.h": "c"
+    "string.h": "c",
+    "stdbool.h": "c"
   }
 }
