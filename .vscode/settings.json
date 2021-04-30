@@ -12,6 +12,9 @@
     "cstdint": "cpp",
     "stdint.h": "c",
     "string.h": "c",
-    "stdbool.h": "c"
+    "stdbool.h": "c",
+    "algorithm": "c",
+    "numeric": "c",
+    "functional": "c"
   }
 }
