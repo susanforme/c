@@ -19,7 +19,8 @@ int menu(void)
 int getNights(void)
 {
   int nights;
-  while (scanf("%d", &nights) != 1 || nights > 0)
+  printf("请输入入住时间。\n");
+  while (scanf("%d", &nights) != 1 || nights < 1)
   {
     printf("请输入大于0整数\n");
   }
