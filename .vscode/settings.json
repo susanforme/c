@@ -15,6 +15,7 @@
     "stdbool.h": "c",
     "algorithm": "c",
     "numeric": "c",
-    "functional": "c"
+    "functional": "c",
+    "hotel.h": "c"
   }
 }
