@@ -16,6 +16,7 @@
     "algorithm": "c",
     "numeric": "c",
     "functional": "c",
-    "hotel.h": "c"
+    "hotel.h": "c",
+    "ctype.h": "c"
   }
 }
