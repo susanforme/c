@@ -10,6 +10,15 @@ int sum(int *start, int *end)
   }
   return total;
 }
+int sum_p(const int arr[], int n)
+{
+  int total = 0;
+  for (int i = 0; i < n; i++)
+  {
+    total += arr[i];
+  }
+  return total;
+}
 int main(void)
 {
   int num[SIZE] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
