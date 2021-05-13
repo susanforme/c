@@ -17,6 +17,14 @@
     "numeric": "c",
     "functional": "c",
     "hotel.h": "c",
-    "ctype.h": "c"
+    "ctype.h": "c",
+    "array": "c",
+    "deque": "c",
+    "string": "c",
+    "unordered_map": "c",
+    "vector": "c",
+    "string_view": "c",
+    "initializer_list": "c",
+    "ranges": "c"
   }
 }
