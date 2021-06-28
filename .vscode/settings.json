@@ -28,6 +28,8 @@
     "ranges": "c",
     "stdlib.h": "c",
     "cmath": "c",
-    "*.tcc": "c"
+    "*.tcc": "c",
+    "bit": "c",
+    "random": "c"
   }
 }
