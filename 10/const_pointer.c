@@ -7,7 +7,7 @@ int sum(const int sum[], int n)
   {
     total += sum[i];
   }
-  return total
+  return total;
 }
 int main(void)
 {
