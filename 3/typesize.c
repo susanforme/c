@@ -7,6 +7,5 @@ int main(void)
   printf("Type double has a size of %zd bytes.\n", sizeof(double));
   printf("Type float has a size of %zd bytes.\n", sizeof(float));
   printf("Type long double has a size of %zd bytes.\n", sizeof(long double));
-
   return 0;
 }

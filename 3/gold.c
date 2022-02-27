@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-double convert(double wegiht);
+double convert(double weight);
 
 int main(void)
 {
@@ -12,7 +12,7 @@ int main(void)
   printf("wow , your weight(%.2lf) in gold is worth ￥ %.2lf!\n", weight, convert(weight));
   return 0;
 }
-double convert(double wegiht)
+double convert(double weight)
 {
-  return wegiht * 1000 * 325;
+  return weight * 1000 * 325;
 }
